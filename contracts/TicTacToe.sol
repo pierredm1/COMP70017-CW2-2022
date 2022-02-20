@@ -58,6 +58,7 @@ contract TicTacToe {
      */
     function _getStatus(uint pos) private view returns (uint) {
         /*Please complete the code here.*/
+        return status;
     }
 
     /**
